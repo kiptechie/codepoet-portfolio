@@ -1,4 +1,4 @@
-# [Timothy Serem - Freelancer](https://www.kiptechie.live/)
+# [Timothy Serem - Android Dev](https://www.kiptechie.live/)
 
 Android developer ❤| Ionic hybrid app dev 😎| Firebase ninja 🐱‍👤| One commit at a time ✌
 
