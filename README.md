@@ -1,7 +1,5 @@
 # [Timothy Serem - Android Dev](https://www.kiptechie.live/)
 
-Android developer ❤| Ionic hybrid app dev 😎| Firebase ninja 🐱‍👤| One commit at a time ✌
-
 ## Preview
 
 [![Kiptechie Preview](https://github.com/kiptechie/codepoet-portfolio/blob/master/img/screenShot/screen_shot.png)](https://www.kiptechie.live/)
